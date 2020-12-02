@@ -5,7 +5,8 @@ Federated Learning of Image classification and Its simulation in TensorFlow Fede
 
 源代码：https://github.com/lpf111222/Federated-Learning-of-Image-classification-and-Its-simulation-in-TensorFlow-Federated
 数据集：本实验使用了一个鲜花图片数据集，数据集中3670张图片属于5个类（雏菊daisy、蒲公英dandelion、玫瑰roses、向日葵sunflowers、郁金香tulips）
-数据集下载地址：https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz
+数据集下载地址：https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz  
+如果您上述网址下载数据失败，百度网盘链接：https://pan.baidu.com/s/1RzmVSL8X_Stu1B_04z6CpA 提取码：4fg2 
 
 运行说明：
 数据集解压后的flower_photos文件夹，和源代码FL_flower_photos.py文件放在同一路径下，用Python解释器执行FL_flower_photos.py即可。
